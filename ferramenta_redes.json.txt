@@ -1,0 +1,20 @@
+{
+   "name": "Busca Social Pública",
+   "type": "url",
+   "url": "https://link-da-ferramenta-aqui.com",
+   "description": "Mostra apenas informações que já estão públicas em perfis de redes sociais.",
+   "status": "live",
+   "pricing": "free",
+   "bestFor": "Ver dados públicos de contas em redes sociais",
+   "input": "Nome de usuário ou link do perfil",
+   "output": "Dados visíveis, contatos e links públicos",
+   "opsec": "passive",
+   "opsecNote": "Apenas dados públicos, não acessa contas privadas.",
+   "localInstall": false,
+   "googleDork": false,
+   "registration": false,
+   "editUrl": false,
+   "api": false,
+   "invitationOnly": false,
+   "deprecated": false
+ }
